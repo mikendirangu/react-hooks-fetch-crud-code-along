@@ -13,12 +13,6 @@
       "isInCart": false
     },
     {
-      "id": 3,
-      "name": "Lettuce",
-      "category": "Produce",
-      "isInCart": false
-    },
-    {
       "id": 4,
       "name": "String Cheese",
       "category": "Dairy",
@@ -35,6 +29,30 @@
       "name": "Cookies",
       "category": "Dessert",
       "isInCart": false
+    },
+    {
+      "name": "sweet",
+      "category": "Produce",
+      "isInCart": false,
+      "id": 7
+    },
+    {
+      "name": "Pomegranate",
+      "category": "Dessert",
+      "isInCart": true,
+      "id": 8
+    },
+    {
+      "name": "gh",
+      "category": "Produce",
+      "isInCart": false,
+      "id": 9
+    },
+    {
+      "name": "ghfhjdljkjj",
+      "category": "Produce",
+      "isInCart": false,
+      "id": 10
     }
   ]
 }
